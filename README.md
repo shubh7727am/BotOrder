@@ -1,3 +1,4 @@
+![App Icon](android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 # BotOrder
 
@@ -5,6 +6,12 @@
 
 
 BotOrder is an innovative mobile application designed to manage autonomous robot operations seamlessly. The app bridges communication between users and autonomous robots using advanced technologies, providing efficient control and monitoring.
+
+App Screenshots
+--------
+<p align="center">
+  <img src="App_ss/1.png" width="30%" />
+</p>
 
 ## Features
 
