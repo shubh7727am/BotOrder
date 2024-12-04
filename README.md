@@ -61,7 +61,7 @@ App Screenshots
 - Advanced data analytics for robot performance monitoring.
 - Support for multiple robots within a single app.
 
-## DemoVideo
+## DemoVideo [ Forward to 2:16 for app demo ]
 
 [![App demo video timestamp 2:16 ](https://img.youtube.com/vi/wLLw4EOi0J8/0.jpg)](https://www.youtube.com/watch?v=wLLw4EOi0J8)
 
