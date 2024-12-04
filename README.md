@@ -68,4 +68,4 @@ App Screenshots
 
 ---
 
-**Developed and Edited By:** Shubham Choudhary
+**Developed  By:** Shubham Choudhary
